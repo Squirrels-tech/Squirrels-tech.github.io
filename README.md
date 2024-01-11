@@ -15,13 +15,15 @@ Step 4 - Explore [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
-# What is Machine Learning
+# What is Machine Learning?
 
 Machine learning is the science of getting computers to act without being explicitly programmed. Over the past decade, machine learning has given us self-driving cars, practical speech recognition, and effective web search, and it is also giving us a continually improving understanding of the human genome.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
 # History of Machine Learning
+
+
 
 
 
