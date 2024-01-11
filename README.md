@@ -8,5 +8,7 @@ ________________________________________________________________________________
 
 # Getting Started
 
+Step 1 - Install Python on your desktop/laptop. Use this link to install Python [Install Python](https://www.python.org/about/gettingstarted/) 
+
 
 
