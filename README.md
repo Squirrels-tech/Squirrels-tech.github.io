@@ -8,7 +8,21 @@ ________________________________________________________________________________
 
 # Getting Started
 
-Step 1 - Install Python on your desktop/laptop. Use this link to install Python [Install Python](https://www.python.org/about/gettingstarted/) 
+Step 1 - Install Python on your desktop/laptop. Use this link to install Python [Install Python](https://www.python.org/about/gettingstarted/) and install [Jupyter](https://jupyter.org/install) to work on jupyter notebooks
+Step 2 - Learn Python. It's also recommended to have a basic understanding of [Python](https://www.learnpython.org/).
+Step 3 - Create a GitHub account
+Step 4 - Explore [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+
+_______________________________________________________________________________________________________________________________________________________________________________________________
+
+# What is Machine Learning
+
+Machine learning is the science of getting computers to act without being explicitly programmed. Over the past decade, machine learning has given us self-driving cars, practical speech recognition, and effective web search, and it is also giving us a continually improving understanding of the human genome.
+
+_______________________________________________________________________________________________________________________________________________________________________________________________
+
+# History of Machine Learning
+
 
 
 
