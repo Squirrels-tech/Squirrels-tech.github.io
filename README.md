@@ -23,6 +23,9 @@ ________________________________________________________________________________
 
 # History of Machine Learning
 
+![historyofAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/42326321-5c55-4922-a131-2f1b21328a37)
+
+
 
 
 
