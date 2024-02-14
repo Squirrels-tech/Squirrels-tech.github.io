@@ -1,4 +1,4 @@
-Naive Bayes' Algorithm
+## Naive Bayes' Algorithm
 Naive Bayes(NB) classifier is a probabilistic machine learning model based on Baye's theorem. It is a very popular supervised learning algorithm used for problems like text classification, spam filtering, and recommendation systems. It belongs to the family of generative learning algorithms, which means that it models the distribution of the inputs for a given class or category.
 
 Naive Bayes models are a group of extremely fast and simple classification algorithms that are often suitable for very high-dimensional datasets. Because they are so fast and have so few tunable parameters, they end up being very useful as a quick-and-dirty baseline for a classification problem.
