@@ -7,6 +7,7 @@ It is called Naive Bayes because it makes a naive assumption features being inde
 
 Coming down to the basics - Bayes' theorem is based on the probability of hypothesis, given the data and some prior knowledge.
 
-![naiveBayes.webp](~/Documents/squirrels/projects/mlForBeginners/naiveBayes/attachment:naiveBayes.webp)
-![naiveBayeConditionalIndependence.webp](~/Documents/squirrels/projects/mlForBeginners/naiveBayes/attachment:naiveBayeConditionalIndependence.webp)
+![naiveBayeConditionalIndependence](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/f73e845a-d442-4b68-abb9-73315c65fa03)
+
+
 
