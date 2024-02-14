@@ -28,6 +28,7 @@ ________________________________________________________________________________
 # Curriculum
 ## SQL - [Introduction to SQL](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
 ## Naive Bayes' Algorithm - [Naive Bayes' Algorithm](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/naiveBayes/naiveBayes.ipynb)
+## Logistic Regression - [Logistic Regression](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/logisticRegression/logisticRegressionConcepts.ipynb)
 
 
 
