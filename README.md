@@ -26,9 +26,10 @@ ________________________________________________________________________________
 ![historyofAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/42326321-5c55-4922-a131-2f1b21328a37)
 _______________________________________________________________________________________________________________________________________________________________________________________________
 # Curriculum
-## SQL - [Introduction to SQL](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
-## Naive Bayes' Algorithm - [Naive Bayes' Algorithm](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/naiveBayes/naiveBayes.ipynb)
-## Logistic Regression - [Logistic Regression](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/logisticRegression/logisticRegressionConcepts.ipynb)
+### SQL - [Introduction to SQL - notes & codes](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
+### Naive Bayes' Algorithm - [Naive Bayes' Algorithm - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/naiveBayes/naiveBayes.ipynb)
+### Logistic Regression - [Logistic Regression - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/logisticRegression/logisticRegressionConcepts.ipynb)
+### Support Vector Machines - [Support Vector Machines - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/SVM/SVM.ipynb)
 
 
 
