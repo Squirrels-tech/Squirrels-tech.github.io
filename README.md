@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ### SQL - [Introduction to SQL - notes & codes](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
 ### Naive Bayes' Algorithm - [Naive Bayes' Algorithm - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/naiveBayes/naiveBayes.ipynb)
 ### Logistic Regression - [Logistic Regression - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/logisticRegression/logisticRegressionConcepts.ipynb)
-### Support Vector Machines - [Support Vector Machines - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/SVM/SVM.ipynb)
+### Support Vector Machines - [Support Vector Machines - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/SVM/SVM(start%20to%20finish).ipynb)
 
 
 
