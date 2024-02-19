@@ -2,16 +2,16 @@
 ## Our mission - Enabling small-town girls to pursue a career in STEM
 
 ## Introduction to Machine Learning
-Welcome to this 16-week course on classic Machine Learning. Whether you are a beginner or an experienced ML professional looking to brush up, we are happy to have you join us. In this course, you will be learning about classic machine-learning algorithms using Scikit-learn. Each Chapter consists of illustrations, a theoretical overview, and hands-on coding.
+Welcome to this course on classic Machine Learning. Whether you are a beginner or an experienced ML professional looking to brush up, we are happy to have you join us. In this course, you will be learning about classic machine-learning algorithms using Scikit-learn. Each Chapter consists of illustrations, a theoretical overview, and hands-on coding.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Getting Started
 
-Step 1 - Install Python on your desktop/laptop. Use this link to install Python [Install Python](https://www.python.org/about/gettingstarted/) and install [Jupyter](https://jupyter.org/install) to work on jupyter notebooks
-Step 2 - Learn Python. It's also recommended to have a basic understanding of [Python](https://www.learnpython.org/).
-Step 3 - Create a GitHub account
-Step 4 - Explore [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+* Step 1 - Install Python on your desktop/laptop. Use this link to install Python [Install Python](https://www.python.org/about/gettingstarted/) and install [Jupyter](https://jupyter.org/install) to work on jupyter notebooks
+* Step 2 - Learn Python. It's also recommended to have a basic understanding of [Python](https://www.learnpython.org/).
+* Step 3 - Create a GitHub account
+* Step 4 - Explore [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ![historyofAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/historyOfAI/historyOfAI.jpeg)
 _______________________________________________________________________________________________________________________________________________________________________________________________
-## Curriculum
+## Topics Covered
 ### SQL - [Introduction to SQL - notes & codes](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
 ### Naive Bayes' Algorithm - [Naive Bayes' Algorithm - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/naiveBayes/naiveBayes.ipynb)
 ### Logistic Regression - [Logistic Regression - notes & codes](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/logisticRegression/logisticRegressionConcepts.ipynb)
