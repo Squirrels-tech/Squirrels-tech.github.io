@@ -1,4 +1,4 @@
-# Machine Learning for Beginners
+![historyOfAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/087d5a7b-fe6c-4575-a355-1b9854a71027)# Machine Learning for Beginners
 ## Our mission - Enabling small-town girls to pursue a career in STEM
 
 ## Introduction to Machine Learning
@@ -23,7 +23,8 @@ ________________________________________________________________________________
 
 ## History of Machine Learning
 
-![historyofAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/historyOfAI/historyOfAI.jpeg)
+![historyofAI](![Uploading historyOfAI.jpeg…])
+
 _______________________________________________________________________________________________________________________________________________________________________________________________
 ## Topics Covered
 
