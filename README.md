@@ -23,7 +23,8 @@ ________________________________________________________________________________
 
 ## History of Machine Learning
 
-![historyOfAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/087d5a7b-fe6c-4575-a355-1b9854a71027)
+![historyOfAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/76d611db-4eeb-4c5e-998a-e4acfc9aeb36)
+
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 ## Topics Covered
