@@ -23,7 +23,8 @@ ________________________________________________________________________________
 
 ## History of Machine Learning
 
-![historyOfAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/76d611db-4eeb-4c5e-998a-e4acfc9aeb36)
+![historyOfAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/476ceb6a-214d-4749-932f-0142bb06d685)
+
 
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
