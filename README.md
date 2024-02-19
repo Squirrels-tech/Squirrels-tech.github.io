@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ## History of Machine Learning
 
-![historyofAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/assets/20395827/42326321-5c55-4922-a131-2f1b21328a37)
+![historyofAI](https://github.com/Squirrels-tech/Squirrels-tech.github.io/blob/main/historyOfAI/historyOfAI.jpeg)
 _______________________________________________________________________________________________________________________________________________________________________________________________
 ## Curriculum
 ### SQL - [Introduction to SQL - notes & codes](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
